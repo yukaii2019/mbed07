@@ -56,14 +56,25 @@ struct Config {
         "  *              \n\r"
 
         " * * * * * * * * \n\r",
-        "shift:\n\r"
-        "                 \n\r"
-        "                 \n\r"
-        "                 \n\r"
+        /*"OPPOSITESLOPE:\n\r"
         " * * * * * * * * \n\r"
-        "                 \n\r"
-        "                 \n\r"
-        "                 \n\r"};
+        "              *  \n\r"
+        "            *    \n\r"
+        "          *      \n\r"
+        "        *        \n\r"
+        "      *          \n\r"
+        "    *            \n\r"
+        "  *              \n\r"*/
+        "ONE:\n\r"
+        "        *        \n\r"
+        "        *        \n\r"
+        "        *        \n\r"
+        "        *         \n\r"
+        "        *        \n\r"
+        "        *        \n\r"
+        "        *        \n\r"
+        "        *        \n\r"
+        };
 
 };
 
